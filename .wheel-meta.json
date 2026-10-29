@@ -1,0 +1,22 @@
+{
+  "wheel_id": 513,
+  "structure": "umbrella",
+  "slug": "sydneyhomeloanbroker-105",
+  "project": "mortgage-brokers-sydney-red-flags-760d6456f96f6e5fd1b29b05e7be6",
+  "parent_t1_ref": "sydneyhomeloanbroker-152",
+  "node_role": "feeder",
+  "money_target": "sydneyhomeloanbroker.com.au",
+  "primary_kw": "mortgage brokers sydney red flags",
+  "intended_url": "https://aumedia.neocities.org/mortgage-brokers-sydney-red-flags-760d6456f96f6e5fd1b29b05e7be6/",
+  "tier": "T2",
+  "writeback_nonce": "bec23796765a02f2",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/sydneyhomeloanbroker-152/",
+      "anchor": "Mortgage Brokers Sydney What to Expect: What to Expect",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
